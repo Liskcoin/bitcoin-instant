@@ -53,9 +53,13 @@ make
 
 # To use WSL build with gui , an Xserver will need to be installed on the Windows 10 system and the DISPLAY variable will need to be set in Bash. >> install: VcXsrv & PuTTY. >> launch: Xlaunch(VcXsrv) >> open up WSL console then type : 
 
+
 export DISPLAY=:0
+
 cd bitcoin-instant
+
 cd ./src/qt/
+
 ./instantcoin-qt
 
 # still need help? *join Bitcoin-instant telegram : https://t.me/bitcoin_instant
