@@ -72,6 +72,8 @@ cd ./src/qt/
 
 ./instantcoin-qt
 
-# still need help? *join Bitcoin-instant telegram : https://t.me/bitcoin_instant
+-------------------------------------------------------------------
+
+# telegram support/development chat: https://t.me/bitcoin_instant
 
 
