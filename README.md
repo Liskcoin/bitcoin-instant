@@ -74,6 +74,6 @@ cd ./src/qt/
 
 -------------------------------------------------------------------
 
-# telegram support/development chat: https://t.me/bitcoin_instant
+# telegram: https://t.me/bitcoin_instant
 
 
