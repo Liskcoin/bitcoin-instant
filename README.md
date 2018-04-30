@@ -2,14 +2,23 @@
 ----------------------
 #sample instantcoin.conf:
 --------------------------------------------------------
+
 rpcuser=satoshi
+
 rpcpassword=somethingreallylongandhardthecrack1234567
+
 server=1
+
 listen=1
+
 maxconnections=100
+
 rpcport=17331
+
 port=7331
+
 addnode=bti1.instant.industries
+
 ----------------------------------------------------------
 # Installing Bitcoin-Instant for Linux With Windows 10:
 # Windows Subsystem for Linux (WSL). This feature allows you to run a bash shell directly on Windows in an Ubuntu-based environment. Within this environment you can cross compile for Windows without the need for a separate Linux VM or server. Note that the following instructions have only been tested with Ubuntu using WSL on Windows 10.
