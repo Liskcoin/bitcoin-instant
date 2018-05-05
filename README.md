@@ -37,6 +37,8 @@ sudo apt-get install libtool autotools-dev autoconf libssl-dev
 
 sudo apt-get install libboost-all-dev
 
+# sudo apt-get install software-properties-common
+
 sudo add-apt-repository ppa:bitcoin/bitcoin
 
 sudo apt-get update
